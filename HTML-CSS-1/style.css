@@ -1,0 +1,27 @@
+/* Styling for links */
+* {
+    box-sizing: border-box;
+  }
+  
+  a {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .div1 {
+    border: 1px solid #ddd;
+    background-color: #87ceeb;
+    padding: 10px; /* Added padding for spacing inside the div */
+    margin: 10px; /* Added margin for spacing around the div */
+  }
+  
+  .div2 {
+    text-align: center;
+    font-size: 36px;
+    border: 1px solid #ddd;
+    background-color: #ff69b4;
+    padding: 20px; /* Added padding for spacing inside the div */
+    margin: 10px; /* Added margin for spacing around the div */
+    border-radius: 10px;
+  }
+  
